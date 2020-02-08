@@ -1,0 +1,11 @@
+.Person {
+    color: brown;
+    border: 1px solid black;
+    width: 60%;
+    margin: 1rem 20rem;
+}
+
+h2 {
+    padding: 3rem;
+}
+
